@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.invisioncic.com/r268468/monthly_2018_02/gamelogo-vintagestory-banner.png.05569bcb37e8009e6c751d354a4dd033.png" alt="Vintage Story Logo" width="660" style="vertical-align:middle;"/>
+  <a href="https://mods.vintagestory.at/">
+    <img src="https://media.invisioncic.com/r268468/monthly_2018_02/gamelogo-vintagestory-banner.png.05569bcb37e8009e6c751d354a4dd033.png" alt="Vintage Story Logo" width="660" style="vertical-align:middle;"/>
+  </a>
 </p>
 
 <h2 align="center"> SONZ-INA •
