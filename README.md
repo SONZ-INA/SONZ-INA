@@ -16,7 +16,7 @@
       </a> <br>
       <b>Food Shelves</b> <br>
       <i>Adds a variety of food storage shelves to organize items in a visually appealing way and adds a cooling mechanic</i> <br>
-      <b>Downloads:</b> 425,000+
+      <b>Downloads:</b> 450,000+
     </td>
     <td align="center" width="300">
       <a href="https://mods.vintagestory.at/purposefulstorage">
